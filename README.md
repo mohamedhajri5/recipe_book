@@ -1,7 +1,5 @@
 # Recipe Book
 
-Educational project built while learning Angular 4 from Maximilian Schwarzmüller's *Angular - The Complete Guide* series. 
-
 To get started, you can use the test user `test@test.com` with p/w `testing`. Then be sure to Fetch Data from the Manage menu at the top right corner of the page. This will load the user's recipes to be managed. From there you can build and manage an overall shopping list.
 
 ![Add A Recipe](https://i.imgur.com/wm3QdjM.png)
